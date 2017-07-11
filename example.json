@@ -1,0 +1,117 @@
+{
+  "items":[
+    {
+      "id":"N1CLTWY09001015",
+      "kind":"session",
+      "data":{
+        "description":"This three component class involves Aerobics; high and low impact moves designed to get your heart pumping. Conditioning; chest, back and arms and total upper body workout and Core; total focus on your abdominal muscles. All of the components together make this a perfect combination class.\n",
+        "offer":{
+          "type":"Offer",
+          "name":"Adult non-member",
+          "priceCurrency":"GBP",
+          "price":"7.60"
+        },
+        "name":"20/20/20 Mon 9am",
+        "@context":[
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type":"Event",
+        "activity":[
+          "20/20/20"
+        ],
+        "genderRestriction":"mixed",
+        "identifier":"N1CLTWY09001015",
+        "location":{
+          "identifier":"NEW",
+          "type":"Place",
+          "geo":{
+            "type":"GeoCoordinates",
+            "latitude":51.51872,
+            "longitude":0.036202
+          },
+          "name":"Newham Leisure Centre",
+          "address":"Newham Leisure Centre, 281, Prince Regent Lane, London, England, E13 8SD",
+          "telephone":"0844 414 2728",
+          "url":"www.activenewham.org.uk"
+        },
+        "subEvent":[
+          {
+            "type":"Event",
+            "start":"2017-07-17T09:00:00",
+            "end":"2017-07-17T10:00:00",
+            "duration":"PT1H",
+            "beta:availability":">4"
+          }
+        ],
+        "organizer":{
+          "type":"Organization",
+          "telephone":"020 3770 4444",
+          "url":"http://www.activenewham.org.uk",
+          "email":"info@activenewham.org.uk",
+          "name":"Active Newham"
+        }
+      },
+      "modified":1499734633302,
+      "state":"updated"
+    },
+    {
+      "id":"N5CLABS11001015",
+      "kind":"session",
+      "data":{
+        "description":"Exercises using your own body weight to gain the ultimate 6 pack.",
+        "offer":{
+          "type":"Offer",
+          "name":"Adult non-member",
+          "priceCurrency":"GBP",
+          "price":"7.60"
+        },
+        "name":"Abs Blast Friday 11am",
+        "@context":[
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type":"Event",
+        "activity":[
+          "Abs Blast"
+        ],
+        "genderRestriction":"mixed",
+        "identifier":"N5CLABS11001015",
+        "location":{
+          "identifier":"NEW",
+          "type":"Place",
+          "geo":{
+            "type":"GeoCoordinates",
+            "latitude":51.51872,
+            "longitude":0.036202
+          },
+          "name":"Newham Leisure Centre",
+          "address":"Newham Leisure Centre, 281, Prince Regent Lane, London, England, E13 8SD",
+          "telephone":"0844 414 2728",
+          "url":"www.activenewham.org.uk"
+        },
+        "subEvent":[
+          {
+            "type":"Event",
+            "start":"2017-07-14T11:00:00",
+            "end":"2017-07-14T12:00:00",
+            "duration":"PT1H",
+            "beta:availability":">4"
+          }
+        ],
+        "organizer":{
+          "type":"Organization",
+          "telephone":"020 3770 4444",
+          "url":"http://www.activenewham.org.uk",
+          "email":"info@activenewham.org.uk",
+          "name":"Active Newham"
+        }
+      },
+      "modified":1499734633631,
+      "state":"updated"
+    }
+  ],
+  "next":"https://activenewham-openactive.herokuapp.com/?after=N5CLABS11001015&from=1499734633631&limit=2",
+  "remaining-updates":355,
+  "remaining-pages":178
+}
