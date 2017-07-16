@@ -1,4 +1,4 @@
-{
+{ "license":"https://creativecommons.org/licenses/by/4.0/",
   "items":[
     {
       "id":"N1CLTWY09001015",
@@ -49,7 +49,9 @@
           "telephone":"020 3770 4444",
           "url":"http://www.activenewham.org.uk",
           "email":"info@activenewham.org.uk",
-          "name":"Active Newham"
+          "name":"Active Newham",
+          "id": "http://www.activenewham.org.uk",
+          "logo":"http://data.activenewham.org.uk/images/logo.png"
         }
       },
       "modified":1499734633302,
@@ -104,14 +106,14 @@
           "telephone":"020 3770 4444",
           "url":"http://www.activenewham.org.uk",
           "email":"info@activenewham.org.uk",
-          "name":"Active Newham"
+          "name":"Active Newham",
+          "id": "http://www.activenewham.org.uk",
+          "logo":"http://data.activenewham.org.uk/images/logo.png"
         }
       },
       "modified":1499734633631,
       "state":"updated"
     }
   ],
-  "next":"https://activenewham-openactive.herokuapp.com/?after=N5CLABS11001015&from=1499734633631&limit=2",
-  "remaining-updates":355,
-  "remaining-pages":178
+  "next":"https://activenewham-openactive.herokuapp.com/?after=N5CLABS11001015&from=1499734633631&limit=2"
 }
